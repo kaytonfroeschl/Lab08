@@ -1,0 +1,21 @@
+body{
+   background-image: url(background.jpg);
+   background-size: 100%;
+   background-repeat: repeat;
+}
+h1{
+   background-color: plum;
+   text-align: center;
+   color: purple;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 50px;
+}
+ul, li{
+   font-size: 30px;
+}
+
+li:hover{
+   background-color: hotpink;
+}
+
+
